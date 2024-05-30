@@ -1,0 +1,134 @@
+Country,geocode,most popular social media
+Afghanistan,AFG,N/A
+Algeria,DZA,N/A
+Angola,AGO,N/A
+Argentina,ARG,facebook
+Australia,AUS,facebook
+Austria,AUT,facebook
+Azerbaijan,AZE,N/A
+Bangladesh,BGD,N/A
+Belarus,BLR,N/A
+Belgium,BEL,facebook
+Benin,BEN,N/A
+Bolivia,BOL,N/A
+Brazil,BRA,facebook
+Bulgaria,BGR,facebook
+Burkina Faso,BFA,N/A
+Burundi,BDI,N/A
+Cambodia,KHM,N/A
+Cameroon,CMR,N/A
+Canada,CAN,facebook
+Central African Republic,CAF,N/A
+Chad,TCD,N/A
+Chile,CHL,facebook
+China,CHN,WeChat
+Colombia,COL,facebook
+Costa Rica,CRI,N/A
+Croatia,HRV,facebook
+Cuba,CUB,N/A
+Czech Republic,CZE,facebook
+Denmark,DNK,facebook
+Dominican Republic,DOM,N/A
+DR Congo,COD,N/A
+Ecuador,ECU,N/A
+Egypt,EGY,facebook
+El Salvador,SLV,N/A
+Eritrea,ERI,N/A
+Ethiopia,ETH,N/A
+Finland,FIN,facebook
+France,FRA,facebook
+Georgia,GEO,N/A
+Germany,DEU,facebook
+Ghana,GHA,N/A
+Greece,GRC,facebook
+Guatemala,GTM,N/A
+Guinea,GIN,N/A
+Haiti,HTI,N/A
+Honduras,HND,N/A
+Hong Kong,HKG,facebook
+Hungary,HUN,facebook
+India,IND,facebook
+Indonesia,IDN,facebook
+Iran,IRN,N/A
+Iraq,IRQ,facebook
+Ireland,IRL,facebook
+Israel,ISR,facebook
+Italy,ITA,facebook
+Ivory Coast,CIV,N/A
+Japan,JPN,twitter
+Jordan,JOR,N/A
+Kazakhstan,KAZ,N/A
+Kenya,KEN,N/A
+Kuwait,KWT,twitter
+Kyrgyzstan,KGZ,N/A
+Laos,LAO,N/A
+Lebanon,LBN,N/A
+Liberia,LBR,N/A
+Libya,LBY,N/A
+Madagascar,MDG,N/A
+Malawi,MWI,N/A
+Malaysia,MYS,facebook
+Mali,MLI,N/A
+Mauritania,MRT,N/A
+Mexico,MEX,facebook
+Moldova,MDA,N/A
+Mongolia,MNG,N/A
+Morocco,MAR,facebook
+Mozambique,MOZ,N/A
+Myanmar,MMR,N/A
+Nepal,NPL,N/A
+Netherlands,NLD,facebook
+New Zealand,NZL,facebook
+Nicaragua,NIC,N/A
+Niger,NER,N/A
+Nigeria,NGA,N/A
+Norway,NOR,facebook
+Oman,OMN,N/A
+Pakistan,PAK,whatsapp
+Palestine,PSE,N/A
+Panama,PAN,N/A
+Papua New Guinea,PNG,N/A
+Paraguay,PRY,N/A
+Peru,PER,facebook
+Philippines,PHL,facebook
+Poland,POL,facebook
+Portugal,PRT,facebook
+Puerto Rico,PRI,N/A
+Republic of the Congo,COG,N/A
+Romania,ROU,facebook
+Russia,RUS,vk
+Rwanda,RWA,N/A
+Saudi Arabia,SAU,whatsapp
+Senegal,SEN,N/A
+Serbia,SRB,N/A
+Sierra Leone,SLE,N/A
+Singapore,SGP,facebook
+Slovakia,SVK,facebook
+Somalia,SOM,N/A
+South Africa,ZAF,facebook
+South Korea,KOR,twitter
+South Sudan,SSD,N/A
+Spain,ESP,facebook
+Sri Lanka,LKA,N/A
+Sweden,SWE,facebook
+Switzerland,CHE,facebook
+Taiwan,TWN,facebook
+Tajikistan,TJK,N/A
+Tanzania,TZA,N/A
+Thailand,THA,facebook
+Togo,TGO,N/A
+Tunisia,TUN,N/A
+Turkey,TUR,twitter
+Turkmenistan,TKM,N/A
+Uganda,UGA,N/A
+Ukraine,UKR,facebook
+United Arab Emirates,ARE,instagram
+United Kingdom,GBR,facebook
+United States,USA,facebook
+Uruguay,URY,N/A
+Uzbekistan,UZB,N/A
+Venezuela,VEN,facebook
+Vietnam,VNM,facebook
+Yemen,YEM,N/A
+Zambia,ZMB,N/A
+Zimbabwe,ZWE,N/A
